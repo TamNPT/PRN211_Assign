@@ -1,0 +1,15 @@
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.deps.json
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.dll
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.pdb
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.AssemblyReference.cache
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfoInputs.cache
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfo.cs
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.CoreCompileInputs.cache
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidat.D06B1452.Up2Date
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.dll
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\refint\Candidate_DAOs.dll
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.pdb
+D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\Candidate_DAOs\obj\Debug\net6.0\ref\Candidate_DAOs.dll
