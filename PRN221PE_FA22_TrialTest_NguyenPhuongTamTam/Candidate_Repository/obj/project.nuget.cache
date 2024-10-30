@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnT6dVE0xYo=",
+  "dgSpecHash": "E4Brr2ZbKqA=",
   "success": true,
-  "projectFilePath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj",
+  "projectFilePath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meow\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Meow\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

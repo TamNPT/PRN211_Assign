@@ -18,8 +18,8 @@
         <TextBox x:Name="txtFullName" Text="{Binding Fullname}" DataContext="{Binding SelectedItem, ElementName=dtgCandidateProfile}" HorizontalAlignment="Left" Margin="258,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Height="40" FontSize="25" VerticalContentAlignment="Center"/>
         <TextBox x:Name="txtImageURL" Text="{Binding ProfileUrl}" DataContext="{Binding SelectedItem, ElementName=dtgCandidateProfile}" HorizontalAlignment="Left" Margin="258,275,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Height="40" FontSize="25" VerticalContentAlignment="Center"/>
         <DatePicker x:Name="txtBirthDay" Text="{Binding Birthday}" DataContext="{Binding SelectedItem, ElementName=dtgCandidateProfile}"  HorizontalAlignment="Left" Margin="258,345,0,0" VerticalAlignment="Top" Width="300" Height="40" FontSize="20"/>
-        <ComboBox x:Name="cmbJobPostingID" HorizontalAlignment="Left" Margin="850,135,0,0" VerticalAlignment="Top" Width="300" Height="40"/>
-        <DataGrid x:Name="dtgCandidateProfile" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="40,575,50,134" />
+        <ComboBox x:Name="cmbJobPostingID" HorizontalAlignment="Left" Margin="850,135,0,0" VerticalAlignment="Top" Width="300" Height="40" SelectionChanged="cmbJobPostingID_SelectionChanged"/>
+        <DataGrid x:Name="dtgCandidateProfile" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="40,575,50,134" SelectionChanged="dtgCandidateProfile_SelectionChanged" />
         <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="100,750,0,0" VerticalAlignment="Top" FontSize="30" Width="150" Height="59" Background="#FFC688EB" Click="btnAdd_Click"/>
         <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="400,750,0,0" VerticalAlignment="Top" FontSize="30" Width="150" Height="59" Background="#FFFBA2D0" Click="btnUpdate_Click"/>
         <Button x:Name="btnDelete" Content="Delete" HorizontalAlignment="Left" Margin="700,750,0,0" VerticalAlignment="Top" FontSize="30" Width="150" Height="59" Background="#FFFFC4A4" Click="btnDelete_Click"/>

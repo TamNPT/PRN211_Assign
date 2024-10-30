@@ -154,8 +154,9 @@ namespace CandidateManagement_NguyenPhuongTamTam
         {
             loadInitData();
         }
+        
 
-        private void dtgJobPosting_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void cmbJobPostingID_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             var jobPosting = (CandidateProfile)dtgCandidateProfile.SelectedItem;
             if (jobPosting != null)
@@ -165,5 +166,14 @@ namespace CandidateManagement_NguyenPhuongTamTam
             }
         }
 
+        private void dtgCandidateProfile_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var jobpost = (CandidateProfile)dtgCandidateProfile.SelectedItem;
+            if (jobpost != null)
+            {
+                cmbJobPostingID.SelectedValue = jobpost.PostingId;
+                txtCandidateID.IsReadOnly = true;
+            }
+        }
     }
 }

@@ -1969,11 +1969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj",
+      "projectUniqueName": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj",
       "projectName": "Candidate_Services",
-      "projectPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj",
+      "projectPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj",
       "packagesPath": "C:\\Users\\Meow\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\obj\\",
+      "outputPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1991,8 +1991,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj": {
-              "projectPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj"
+            "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj": {
+              "projectPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Repository\\Candidate_Repository.csproj"
             }
           }
         }

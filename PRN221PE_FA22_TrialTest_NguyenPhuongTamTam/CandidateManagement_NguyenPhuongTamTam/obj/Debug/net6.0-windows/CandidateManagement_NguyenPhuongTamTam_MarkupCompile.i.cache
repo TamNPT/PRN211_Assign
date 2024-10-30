@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\obj\Debug\net6.0-windows\
+D:\PRN221\PRN221_Assignment\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\obj\Debug\net6.0-windows\
 CandidateManagement_NguyenPhuongTamTam
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\App.xaml
+D:\PRN221\PRN221_Assignment\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\App.xaml
 32051267838
 
 81558731622
-218293334846
+2181580390351
 CandidateProfileWindow.xaml;JobPostingWindow.xaml;MainWindow.xaml;
 
-True
+False
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/SxrmI33oY=",
+  "dgSpecHash": "eI55i1dCMLM=",
   "success": true,
-  "projectFilePath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+  "projectFilePath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meow\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Meow\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

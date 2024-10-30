@@ -1987,11 +1987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam.csproj",
+      "projectUniqueName": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam.csproj",
       "projectName": "CandidateManagement_NguyenPhuongTamTam",
-      "projectPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam.csproj",
+      "projectPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam.csproj",
       "packagesPath": "C:\\Users\\Meow\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\obj\\",
+      "outputPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\CandidateManagement_NguyenPhuongTamTam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2009,8 +2009,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj": {
-              "projectPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj"
+            "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj": {
+              "projectPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_Services\\Candidate_Services.csproj"
             }
           }
         }

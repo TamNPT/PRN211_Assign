@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+      "projectUniqueName": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
       "projectName": "Candidate_BusinessObjects",
-      "projectPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+      "projectPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\Meow\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN221\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\obj\\",
+      "outputPath": "D:\\PRN221\\PRN221_Assignment\\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\\Candidate_BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meow\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CandidateManagement_NguyenPhuongTamTam
-build_property.ProjectDir = D:\PRN221\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\
+build_property.ProjectDir = D:\PRN221\PRN221_Assignment\PRN221PE_FA22_TrialTest_NguyenPhuongTamTam\CandidateManagement_NguyenPhuongTamTam\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

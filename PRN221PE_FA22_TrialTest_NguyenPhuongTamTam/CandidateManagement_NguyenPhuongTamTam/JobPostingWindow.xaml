@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CandidateManagement_NguyenPhuongTamTam"
         mc:Ignorable="d"
-        Title="JobPostingWindow" Height="800" Width="1250">
+        Title="JobPostingWindow" Height="800" Width="1250" Loaded="Window_Loaded">
     <Grid Margin="0,45,0,-6">
         <Label x:Name="lblJobPostingManagement" Content="JOB POSTING MANAGEMENT" HorizontalAlignment="Center" Margin="0,38,0,0" VerticalAlignment="Top" FontSize="35" FontWeight="Bold"/>
         <Label x:Name="lblJobPostingID" Content="JobPosting ID" HorizontalAlignment="Left" Margin="40,130,0,0" VerticalAlignment="Top" FontSize="30"/>
